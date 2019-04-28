@@ -1,1 +1,1 @@
-# gumo-iap-client
+# Gumo IAP Client
